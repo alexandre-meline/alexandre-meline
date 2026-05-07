@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandre 👋</h1>
+<h1 align="center">Alexandre Méline 👋</h1>
 
 <p align="center">
   Software engineer building tools across <strong>quant research</strong>, <strong>cybersecurity</strong>, <strong>low-level systems</strong> and <strong>embedded diagnostics</strong>.
