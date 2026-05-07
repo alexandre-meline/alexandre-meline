@@ -89,17 +89,6 @@ I work end-to-end, from microstructure research and ML pipelines to CLI tooling,
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <a href="https://github.com/alexandre-meline">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexandre-meline&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Alexandre's GitHub stats" />
-  </a>
-  <a href="https://github.com/alexandre-meline">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-meline&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-  </a>
-</p>
-
 ### 📫 Get in touch
 
 <p>
