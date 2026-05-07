@@ -92,7 +92,7 @@ I work end-to-end, from microstructure research and ML pipelines to CLI tooling,
 ### 📫 Get in touch
 
 <p>
-  <a href="https://www.linkedin.com/in/alexandre-m-020512234/">
+  <a href="https://www.linkedin.com/in/alexandre-meline/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alexandre.meline.pro@gmail.com">
